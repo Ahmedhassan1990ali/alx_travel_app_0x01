@@ -1,5 +1,3 @@
-# alx_travel_app_0x01
-
 # ALX Travel Listings API
 
 A Django REST API for property listings, bookings, and reviews.
